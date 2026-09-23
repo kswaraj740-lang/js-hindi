@@ -11,7 +11,7 @@ accountCity = "pune"
 console.log(accountId)
 
 /* prefer not to use var beacuse of issue in block scope
-AND function scope 
+AND functional scope 
 
 */
 
